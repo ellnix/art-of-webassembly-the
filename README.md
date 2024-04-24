@@ -1,4 +1,4 @@
-Code from reading the [The Art of WebAssembly](https://nostarch.com/art-webassembly) book.
+Code I wrote while reading [The Art of WebAssembly](https://nostarch.com/art-webassembly) book.
 
 # Getting Started
 
